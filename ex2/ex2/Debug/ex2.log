@@ -1,0 +1,5 @@
+﻿  ex2.cpp
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(25,13): warning C4930: 'Weights gweights(std::string,int,int,std::string,int)': prototyped function not called (was a variable definition intended?)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(28,10): warning C4930: 'Room l(std::string,int,int,std::string,int)': prototyped function not called (was a variable definition intended?)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(22,10): warning C4930: 'Door h(std::string,int,int,bool,std::string)': prototyped function not called (was a variable definition intended?)
+  ex2.vcxproj -> C:\Users\Acer\Desktop\ex2\Debug\ex2.exe
